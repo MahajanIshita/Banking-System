@@ -1,0 +1,22 @@
+.navbar-nav{
+  font-family:'Oxygen',sans-serif;
+  text-decoration:rgb(197, 21, 21);
+  font-weight:bolder;
+}
+#nav-bar
+{
+	background-color:rgb(156, 11, 79);
+	position:static;
+	top:0;
+	z-index:10;
+}
+.nav-link:hover {
+	background-image: url('C:\Users\hp\esktop\banking-system-main\IMG_15022021_130857_(1600_x_600_pixel) (2).jpg');
+}
+.nav-link {
+	font-family:'Oxygen',sans-serif;
+}
+a{
+	color:rgb(94, 20, 20);
+}
+
